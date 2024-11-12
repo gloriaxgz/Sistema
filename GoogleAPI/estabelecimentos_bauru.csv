@@ -1,0 +1,141 @@
+,name,type,latitude,longitude,address,rating,user_ratings_total
+0,Pharmácia Specífica,pharmacy,-22.3270129,-49.0695326,"Rua Gustavo Maciel, 14-65 - Centro, Bauru",3.5,84.0
+1,Pharmácia Specífica Filial,pharmacy,-22.3351858,-49.0661111,"Rua Antônio Alves, 26-09 - Jardim Brasil, Bauru",4.3,44.0
+2,Drogaria Nações Farma,pharmacy,-22.328438,-49.06098960000001,"Avenida Nações Unidas, 17 - Jardim Brasil, Bauru",4.3,6.0
+3,Pharmacis Manipulation Pharmacy,pharmacy,-22.3262229,-49.0689959,"Rua Quinze de Novembro, 13-86 - Centro, Bauru",4.4,68.0
+4,Santisa Laboratório Farmacêutico,pharmacy,-22.3290057,-49.0766778,"Rua Monsenhor Claro, 690 - Centro, Bauru",4.4,19.0
+5,Multi Drogas,pharmacy,-22.3154787,-49.0596017,"Vila Antarctica, Bauru",4.8,4.0
+6,ARS curandi Manipulation Pharmacy,pharmacy,-22.3338689,-49.0739328,"Rua Gérson França, 13-75 - Jardim Estoril, Bauru",4.9,14.0
+7,Escritório Rede Biodrogas,pharmacy,-22.3014502,-49.06687119999999,"Alameda Padre Antônio Maria, 1-36 - Parque Vista Alegre, Bauru",5.0,4.0
+8,Farmafam Bauru,pharmacy,-22.3251436,-49.0648018,"Rua Maria José, 1-61 - Centro, Bauru",4.6,5.0
+9,Flower and Be,pharmacy,-22.311359,-49.068515,"Avenida Nuno de Assis, Quadra 12 - Centro, Bauru",4.9,43.0
+10,Farmacia Medicamentus,pharmacy,-22.3262237,-49.0564088,"Avenida Duque de Caxias, 20-72 - Vila Cardia, Bauru",4.9,17.0
+11,Drogasil,pharmacy,-22.326355,-49.0575026,"Avenida Duque de Caxias, 19 - 70 e 80 - Vila Cardia, Bauru",4.1,127.0
+12,Farmácias Nissei,pharmacy,-22.3263795,-49.0594117,"Avenida Duque de Caxias, 17-75 - Vila Brunhari, Bauru",3.6,112.0
+13,HIPERFARMA,pharmacy,-22.3309015,-49.07582669999999,"Avenida Duque de Caxias, 1-28 - Vila Mesquita, Bauru",5.0,2.0
+14,Farmácia Pague Menos,pharmacy,-22.3216168,-49.07212759999999,"Rua Primeiro de Agosto, 07 -08 - Centro, Bauru",3.1,54.0
+15,Farmácia Unimed Bauru,pharmacy,-22.3241718,-49.0702827,"Rua Gustavo Maciel, 11-49 - Centro, Bauru",4.4,182.0
+16,Pharmacy Nature,pharmacy,-22.322338,-49.071974,"Rua Batista de Carvalho, 7-7 - Centro, Bauru",4.6,14.0
+17,Empório Homeopático,pharmacy,-22.3268808,-49.06852689999999,"Rua Antônio Alves, 16-79 - Centro, Bauru",4.9,10.0
+18,Drogasil,pharmacy,-22.3231013,-49.07500379999999,"Rua Batista de Carvalho, 4 - 8 - Centro, Bauru",4.1,65.0
+19,Farmácia Pague Menos,pharmacy,-22.3290987,-49.0698308,"Avenida Duque de Caxias, 007 - Vila Santa Tereza, Bauru",4.0,83.0
+20,Boulevard Shopping Bauru,shopping_mall,-22.3164844,-49.06625429999999,"Rua Marcondes Salgado, Quadra 11 - Chácara das Flores, Bauru",4.7,27078.0
+21,Vila Inglesa Shop Point,shopping_mall,-22.3152125,-49.0588267,"Rua Marcondes Salgado, 17-71 - Vila Cardia, Bauru",4.4,176.0
+22,SHOBA Shopping Bauru On-line,shopping_mall,-22.3213053,-49.0609302,"Rua Antônio dos Reis, 02-24 - Higienópolis, Bauru",4.9,10.0
+23,Madero,shopping_mall,-22.3418575,-49.0497822,"Rua Henrique Savi, 55 - Vila Nova Cidade Universitaria, Bauru",4.5,90.0
+24,Hard & Soft,shopping_mall,-22.3418575,-49.0497822,"Rua Henrique Savi, 55 - Vila Nova Cidade Universitaria, Bauru",,
+25,Lupo,shopping_mall,-22.3417772,-49.0492975,"Rua Henrique Savi, Quadra 15 - Vila Nova Cidade Universitaria, Bauru",4.6,102.0
+26,Bauru Shopping,shopping_mall,-22.341965,-49.0498045,"Rua Henrique Savi, 15- 55 - Vila Nova Cidade Universitaria, Bauru",4.6,24787.0
+27,Hering Kids Bauru Shopping,shopping_mall,-22.34280600000001,-49.049546,"Rua Henrique Savi, Loja 71 - Vila Nova Cidade Universitaria, Bauru",4.7,19.0
+28,Roasted Potato - Bauru Shopping,shopping_mall,-22.3429882,-49.04936379999999,"Rua Henrique Savi, 15 - 55 - Vila Nova Cidade Universitaria, Bauru",3.5,35.0
+29,C&c,shopping_mall,-22.3113261,-49.06354919999999,"Avenida Nuno de Assis - Parque Vista Alegre, Bauru",,
+30,Elionora Chaves,shopping_mall,-22.3151749,-49.0664522,"R. Marcondes Salgado, 11-39 Boulevard Shopping Bauru - piso 2 - ao lado da Boticário - Chácara das Flores, Bauru",5.0,1.0
+31,Kings Sneakers Bauru,shopping_mall,-22.3170099,-49.066104,"Rua Marcondes Salgado, Quadra 11 - Vila Cardia, Bauru",5.0,11.0
+32,Taverna Sormani,shopping_mall,-22.3170099,-49.066104,"Estacionamento - Rua Marcondes Salgado, Quadra 11 - Chácara das Flores, Bauru",4.6,9.0
+33,Duque Vinteum Mall,shopping_mall,-22.3258083,-49.0558377,"Rua Almeida Brandão, 11-34 - Vila Cardia, Bauru",,
+34,Salão Comercial 500m²,shopping_mall,-22.31915129999999,-49.071813,"Rua Gustavo Maciel, 5-49 - Centro, Bauru",,
+35,PromocoesLegais,shopping_mall,-22.3296773,-49.0590934,"Avenida Nações Unidas, 2115 - Vila Nova Cidade Universitaria, Bauru",,
+36,Mega Lojao Brás Bauru-3,shopping_mall,-22.3232427,-49.0720743,"Avenida Rodrigues Alves, 874 - Centro, Bauru",,
+37,Estacionamento e Galeria Center Park,shopping_mall,-22.3234277,-49.0724165,"Avenida Rodrigues Alves, 8-34 - Centro, Bauru",4.9,20.0
+38,Mega Lojao Brás -2,shopping_mall,-22.3224241,-49.074313,"Rua Treze de Maio, 4-14 - Centro, Bauru",1.0,1.0
+39,Galeria Brasil,shopping_mall,-22.3305222,-49.053201,"Rua Benedito Moreira Pinto, 2-54 - Jardim Panorama, Bauru",5.0,2.0
+40,Mercearia e Quitanda Vem Que Tem,supermarket,-22.2910665,-49.07182659999999,"Rua José Maciel Ribeiro, 232 - Residencial Parque Colina Verde, Bauru",4.6,45.0
+41,Ulian Góes Cia,supermarket,-22.30774359999999,-49.0528365,"Rua Antônio Augusto de Faria - Vila Santa Luzia, Bauru",3.3,6.0
+42,Supermercado São Judas Tadeu - Bauru/SP,supermarket,-22.3197718,-49.0654326,"Rua Primeiro de Agosto, 13-43 - Vila Bonfim, Bauru",4.1,2492.0
+43,Mercearia Cardia,supermarket,-22.31762600000001,-49.058256,"Rua Ezequiel Ramos, 20.02 - Vila Cardia, Bauru",4.5,12.0
+44,Assaí Wholesale,supermarket,-22.3164857,-49.06799849999999,"Avenida Nações Unidas, quadra 06,s/n Centro - Vila Nova Cidade Universitaria, Bauru",4.3,2947.0
+45,Supermercado Casa do Arroz,supermarket,-22.314156,-49.07139100000001,"Rua Araújo Leite - Centro, Bauru",4.5,906.0
+46,Tauste - Duque de Caxias,supermarket,-22.3261257,-49.0544869,"Avenida Duque de Caxias, 22-42 Vila Cardia - Jardim Brasil, Bauru",4.7,10733.0
+47,Superbom Supermarkets - Araruna,supermarket,-22.3019217,-49.0593248,"Rua Felício Atala, 111 - Jardim Araruna, Bauru",3.7,662.0
+48,Spani Atacadista,supermarket,-22.3067257,-49.07261949999999,"Avenida Moussa Nakhl Tobias, 3-55 - Parque Sao Geraldo, Bauru",4.2,2220.0
+49,Pão de Açúcar,supermarket,-22.3308349,-49.0667699,"Rua Araújo Leite, 2250 - Araujo Leite, Bauru",4.3,2286.0
+50,Superbom Supermarkets - Premium,supermarket,-22.3283443,-49.0448532,"Avenida Orlando Ranieri, 6-20 - Jardim Marambá, Bauru",4.3,1385.0
+51,Disfer Distribuidora Alimentos,supermarket,-22.2954521,-49.067089,"6-11, Rua Manoel Mendes Caetano - Novo Jardim Pagani, Bauru",4.4,101.0
+52,Tauste Rio Branco,supermarket,-22.3336429,-49.0696459,"Rua Rio Branco, 20-40 - Vila America, Bauru",4.6,8130.0
+53,Confiança Supermercados - Mary dota,supermarket,-22.2958289,-49.0459075,"Avenida Doutor Marcos de Paula Raphael, 13-13 - Núcleo Habitacional Mary Dota, Bauru",4.1,2301.0
+54,Tudo Aqui,supermarket,-22.3157463,-49.0294466,"Rua São Lucas, 560 - Jardim Redentor, Bauru",3.0,1.0
+55,Supermercado San Marcos,supermarket,-22.3299195,-49.0341343,"Rua Benedito Ribeiro dos Santos, Quadra 12 - Nucleo Habitacional Presidente Geisel, Bauru",4.4,670.0
+56,Panela Cheia Supermercado,supermarket,-22.3114373,-49.09274790000001,"Rua Silva Jardim - Jardim Vania Maria, Bauru",4.4,908.0
+57,Panelão Supermercados,supermarket,-22.3042803,-49.09904100000001,"Rua Professor Ayrton Busch, 1 - Jardim Santa Edwirges, Bauru",3.9,1862.0
+58,Panelão Supermercados,supermarket,-22.2763742,-49.06795899999999,"Rua Gaudêncio Piola, 7-35 - Vila Sao Paulo, Bauru",4.0,937.0
+59,Panelão Supermercados,supermarket,-22.3204776,-49.0254201,"Rua Rafael Pereira Martini, 12-66 - Jardim Redentor, Bauru",4.1,5060.0
+60,Posto Ipiranga,convenience_store,-22.311364,-49.06249280000001,"Avenida Nuno de Assis, 20 50 - Centro, Bauru",4.3,396.0
+61,Graal Sem Limites,convenience_store,-22.3178373,-49.0549311,"Rodovia Marechal Rondon, km 342 - Vila Cardia, Bauru",3.8,17868.0
+62,Posto Ipiranga,convenience_store,-22.3221374,-49.0691521,"Avenida Rodrigues Alves, 11 - Centro, Bauru",4.2,277.0
+63,Pão de Açúcar,convenience_store,-22.3308349,-49.0667699,"Rua Araújo Leite, 2250 - Araujo Leite, Bauru",4.3,2286.0
+64,Farmácias Nissei,convenience_store,-22.32914160000001,-49.0703516,"Rua Rio Branco, 15-78 - Centro, Bauru",4.3,109.0
+65,Posto Ipiranga,convenience_store,-22.33245350000001,-49.0627169,"Alameda Doutor Octávio Pinheiro Brisolla, 5 - Vila Universitaria, Bauru",4.5,225.0
+66,Posto Ipiranga,convenience_store,-22.29864,-49.070115,"Alameda Cônego Aníbal Difrância, 13-49 - Parque Alto Sumare, Bauru",4.5,368.0
+67,Shell Select,convenience_store,-22.3341818,-49.0464985,"Rua Padre Francisco Van Der Maas, 828 - Vila Engler, Bauru",3.5,2.0
+68,Conveniência AmPm - Ipiranga,convenience_store,-22.3307946,-49.0759843,"Av Duque De Caxias 18 70, Bauru",1.0,5.0
+69,Posto Ipiranga,convenience_store,-22.3446353,-49.0627976,"Avenida Nossa Senhora de Fátima, 6 105 - Vila Aviação, Bauru",4.5,168.0
+70,Drogaria PharmaGold Bauru - Farmagold,convenience_store,-22.3291255,-49.091788,"Rua Wenceslau Braz, 5-59 - Vila Falcao, Bauru",5.0,6.0
+71,Posto Ipiranga,convenience_store,-22.33937,-49.09125900000001,"Avenida Castelo Branco, 10-20 - Vila Independencia, Bauru",4.3,55.0
+72,Posto Ipiranga,convenience_store,-22.3172921,-49.0549794,"Rodovia Marechal Rondon, km 342 - Vila Antarctica, Bauru",,
+73,Posto Pit Stop - Grupo Elefantinho,convenience_store,-22.3205187,-49.0611695,"Avenida Rodrigues Alves, 1970 - Vila Cardia, Bauru",4.2,49.0
+74,Posto Petrobras,convenience_store,-22.320375,-49.061884,"Avenida Rodrigues Alves, 19 - Vila Cardia, Bauru",,
+75,EXPRESS BEER ADEGA E CONVENIÊNCIA,convenience_store,-22.3071687,-49.0577256,"Rua José Munhoz, 1-64 - Jardim Araruna, Bauru",4.7,9.0
+76,IMPERADOR BEBIDAS1,convenience_store,-22.3173539,-49.0481642,"Avenida Rodrigues Alves, 32-36 - Quadra 32 - Vila Cardia, Bauru",5.0,51.0
+77,Brooklyn Beer,convenience_store,-22.3049184,-49.0527643,"Avenida Darcy César Improta - Vila Nova Santa Luzia, Bauru",,
+78,BR Mania Conveniência,convenience_store,-22.32315160000001,-49.0660299,"Avenida Nações Unidas, 20 - Centro, Bauru",3.0,2.0
+79,Shell Select,convenience_store,-22.3261841,-49.0557981,"Avenida Duque de Caxias, 2130 - Higienópolis, Bauru",,
+80,Mercearia e Quitanda Vem Que Tem,bakery,-22.2910665,-49.07182659999999,"Rua José Maciel Ribeiro, 232 - Residencial Parque Colina Verde, Bauru",4.6,45.0
+81,Panificadora Nossa Senhora Aparecida,bakery,-22.3196016,-49.0649186,"Rua Primeiro de Agosto, Quadra 14 - Vila Bonfim, Bauru",4.7,1087.0
+82,Cia bread,bakery,-22.313064,-49.062288,"Rua Aymorés, 40-42 - Jardim Santana, Bauru",4.6,372.0
+83,Docepan,bakery,-22.3196314,-49.0591582,"Avenida Rodrigues Alves, 21-111 - Vila Cardia, Bauru",4.4,1206.0
+84,Suspiros Fernanda Cotting Confeitaria,bakery,-22.31838050000001,-49.05232179999999,"Avenida Rodrigues Alves, 28028 - Jardim Guadalajara, Bauru",5.0,3.0
+85,Rei Embalagens,bakery,-22.31068290000001,-49.07140019999999,"Avenida Nações Unidas Norte, Quadra 1 - Vila Formosa, Bauru",4.6,160.0
+86,Salgado & Cia,bakery,-22.3039385,-49.06605659999999,"Alameda Cônego Aníbal Difrância, Quadra 5 - Parque Alto Sumare, Bauru",4.4,111.0
+87,Bakery Dona Dolores,bakery,-22.3013379,-49.0673127,"Alameda Cônego Aníbal Difrância, Quadra 9 - Parque Vista Alegre, Bauru",4.6,1281.0
+88,Bakery Nutshell,bakery,-22.3171466,-49.07620660000001,"Rua Beirute, 1-45 - Vila Seabra, Bauru",4.6,1263.0
+89,Padaria Copacabana,bakery,-22.3286893,-49.0704396,"Rua Rio Branco, 15-28 - Centro, Bauru",4.6,3895.0
+90,Pão de Açúcar,bakery,-22.3308349,-49.0667699,"Rua Araújo Leite, 2250 - Araujo Leite, Bauru",4.3,2286.0
+91,"Sorvemix Bauru Ingredientes e Embalagens para Sorveterias, Padarias e Confeitarias",bakery,-22.32198330000001,-49.0765935,"Rua Azarias Leite, Quadra 2 - Centro, Bauru",4.6,193.0
+92,D'Naty Confeitaria,bakery,-22.3288872,-49.04428289999999,"Rua Narciso José Craveiro, 1-23 - Jardim Camélias, Bauru",4.8,56.0
+93,Panetteria Bella Pasta,bakery,-22.3125456,-49.0800911,"Rua Padre Anchieta, 1477 - Vila Camargo, Bauru",4.7,512.0
+94,What A Cake,bakery,-22.33218,-49.06945489999999,"Rua Rio Branco, 19-20 - Vila America, Bauru",4.7,351.0
+95,Padaria Dona Dolores,bakery,-22.2992931,-49.0745216,"Alameda Flôr do Amor, 8-12 - Parque Sao Geraldo, Bauru",4.7,583.0
+96,Salgados & Caramelados (loja 01),bakery,-22.3335979,-49.0695333,"supermercado Tauste - Rua Rio Branco, 20-40 - Loja 09 - Vila America, Bauru",4.0,24.0
+97,Confiança Supermercados - Mary dota,bakery,-22.2958289,-49.0459075,"Avenida Doutor Marcos de Paula Raphael, 13-13 - Núcleo Habitacional Mary Dota, Bauru",4.1,2301.0
+98,Doce Momento,bakery,-22.3325833,-49.07222089999999,"Rua Vereador Joaquim da Silva Martha, 11-27 - 11-27 - Vila Santa Isabel, Bauru",4.6,2489.0
+99,Sodiê Doces,bakery,-22.3350607,-49.068729,"Rua Rio Branco, 22-30 - Vila America, Bauru",4.7,783.0
+140,Casarão da Picanha,restaurant,-22.3398803,-49.0516824,"Rua Henrique Savi, 11 - Vila Nova Cidade Universitaria, Bauru",4.6,2125.0
+141,McDonald's,restaurant,-22.3231186,-49.0741708,"Rua Batista de Carvalho, Quadra 4 - Centro, Bauru",4.5,2876.0
+142,Friggere Pizza Frita,restaurant,-22.332579,-49.05877899999999,"Rua José Ferreira Marques, 6-80 - Vila Nova Cidade Universitaria, Bauru",4.7,643.0
+143,Panificadora Nossa Senhora Aparecida,restaurant,-22.3196016,-49.0649186,"Rua Primeiro de Agosto, Quadra 14 - Vila Bonfim, Bauru",4.7,1087.0
+144,Bar e Lanchonete Espetinhos Banana Split,restaurant,-22.3129291,-49.0748825,"Rua Comendador Leite, 5066 - Vila Seabra, Bauru",4.2,101.0
+145,Companhia do Caldinho,restaurant,-22.332254,-49.0590158,"Rua José Ferreira Marques, 6 50 - Vila Nova Cidade Universitaria, Bauru",4.6,1355.0
+146,Restaurante Molhin de Filé - Comida Tropeira,restaurant,-22.3312115,-49.06316529999999,"R: Capitão Gomes Duarte N° 20-07, Bauru",4.5,248.0
+147,Posto Ipiranga,restaurant,-22.311364,-49.06249280000001,"Avenida Nuno de Assis, 20 50 - Centro, Bauru",4.3,396.0
+148,Toda Torta Torteria e Restaurante,restaurant,-22.329849,-49.06794300000001,"Rua Antônio Alves, 20, Bauru",5.0,1.0
+149,Pizzaria La Tavola,restaurant,-22.3280256,-49.0675461,"Rua Araújo Leite, 19-36 - Centro, Bauru",4.4,583.0
+150,SPOLETO,restaurant,-22.34203,-49.0493822,"Rua Henrique Savi, Loja 71 - Vila Nova Cidade Universitaria, Bauru",4.3,257.0
+151,City's Burger,restaurant,-22.3216074,-49.0713993,"Praça Rui Barbosa, 468 - Centro, Bauru",4.4,316.0
+152,Di Forni Pizzaria,restaurant,-22.315418,-49.059525,"Rua Marcondes Salgado, 17-71 - Vila Antarctica, Bauru",4.6,1404.0
+153,Alibaba Esfiharia,restaurant,-22.3161535,-49.0579931,"Vila Cardia, Bauru",4.8,100.0
+154,Graal Sem Limites,restaurant,-22.3178373,-49.0549311,"Rodovia Marechal Rondon, km 342 - Vila Cardia, Bauru",3.8,17868.0
+155,Nossa Casa,restaurant,-22.3190539,-49.0603969,"Rua Guaicurus, 4-47 - Vila Cardia, Bauru",4.6,487.0
+156,Tapajós Lanches,restaurant,-22.31678590000001,-49.0647862,"Rua General, Rua Marcondes Salgado, 12-39 - Chácara das Flores, Bauru",4.8,36.0
+157,Burger King,restaurant,-22.3170332,-49.06489929999999,"R. General - Rua Marcondes Salgado, 14550 - Vila Antarctica, Bauru",4.4,2738.0
+158,Bar do Brecha,restaurant,-22.3209389,-49.06102469999999,"Rua Antônio dos Reis, 134 - Higienópolis, Bauru",4.6,2665.0
+159,McDonald's,restaurant,-22.3164194,-49.0661141,"Rua Marcondes Salgado, 11-39 - Loja 371 - Chácara das Flores, Bauru",4.4,3265.0
+160,Supermercado São Judas Tadeu - Bauru/SP,liquor_store,-22.3197718,-49.0654326,"Rua Primeiro de Agosto, 13-43 - Vila Bonfim, Bauru",4.1,2492.0
+161,Tauste - Duque de Caxias,liquor_store,-22.3261257,-49.0544869,"Avenida Duque de Caxias, 22-42 Vila Cardia - Jardim Brasil, Bauru",4.7,10733.0
+162,Spani Atacadista,liquor_store,-22.3067257,-49.07261949999999,"Avenida Moussa Nakhl Tobias, 3-55 - Parque Sao Geraldo, Bauru",4.2,2220.0
+163,Texas Tabacaria & Headshop Bauru,liquor_store,-22.3354793,-49.0536092,"Rua Guilherme de Almeida, 7-20 - Jardim Panorama, Bauru",4.6,100.0
+164,Tauste Rio Branco,liquor_store,-22.3336429,-49.0696459,"Rua Rio Branco, 20-40 - Vila America, Bauru",4.6,8130.0
+165,Confiança Supermercados - Mary dota,liquor_store,-22.2958289,-49.0459075,"Avenida Doutor Marcos de Paula Raphael, 13-13 - Núcleo Habitacional Mary Dota, Bauru",4.1,2301.0
+166,Confiança Supermercados - Max,liquor_store,-22.337947,-49.066261,"Avenida Getúlio Vargas, 3-30 - Jardim Estoril, Bauru",4.6,7098.0
+167,Estação Chopp Brahma - Bauru Shopping,liquor_store,-22.3423342,-49.0494362,"Rua Henrique Savi, 55 - Shopping, Bauru",4.8,160.0
+168,Vino Vida Wine Bar,liquor_store,-22.3448069,-49.0632379,"Avenida Nossa Senhora de Fátima, 618 - Jardim America, Bauru",4.8,89.0
+169,Confiança Supermercados - Falcão,liquor_store,-22.3259238,-49.0896771,"Rua Campos Salles, Quadra 7 - Vila Falcao, Bauru",4.4,4105.0
+170,Pit Stop Skol,liquor_store,-22.324685,-49.09135799999999,"Rua Campos Salles, 9-60 - Vila Falcao, Bauru",,
+171,Casa Ferreira Bebidas Artesanais,liquor_store,-22.3281441,-49.0940036,"Rua Castro Alves, 640 - Vila Souto, Bauru",4.4,11.0
+172,Confiança Supermercados - Castelo,liquor_store,-22.3423143,-49.09334189999999,"Avenida Castelo Branco, 14-41 - Vila Paulista, Bauru",4.3,2765.0
+173,Confiança Supermercados - Flex,liquor_store,-22.339548,-49.0451103,"Avenida Nações Unidas, Quadra , 36 - Jardim Contorno, Bauru",4.5,6329.0
+174,Comprando Nacionais e Importados,liquor_store,-22.33685599999999,-49.069254,"Praça Portugal, 2-22 - Jardim Estoril IV, Bauru",4.5,106.0
+175,Confraria Fernandes,liquor_store,-22.31268,-49.074663,"Rua Comendador Leite, 6-14 - Vila Camargo, Bauru",4.8,4.0
+176,𝕯𝖎𝖘𝖐 𝖉𝖔 𝕵𝖆𝖕𝖆,liquor_store,-22.3191818,-49.05530599999999,"Av: Rodrigues Alves, 25-26 - Vila Antarctica, Bauru",4.2,5.0
+177,Resenha Beer Bauru,liquor_store,-22.30663290000001,-49.0630961,"Alameda das Madressilvas, 5-07 - Parque Vista Alegre, Bauru",,
+178,Chopp Kremer Express,liquor_store,-22.3241961,-49.06415330000001,"Rua Constituição, 461 - Higienópolis, Bauru",4.9,14.0
+179,Mega Chopp Bauru,liquor_store,-22.3242356,-49.064252,"Rua Constituição, Quadra 4 - Vila Cardia, Bauru",3.7,3.0
